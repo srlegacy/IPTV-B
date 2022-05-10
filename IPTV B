@@ -129,6 +129,44 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #####################################################################################################################################################################
 #########################################################❤️❤️WELCOME TO SR LEGACY CHANNEL❤️❤️######################################################################
 #####################################################################################################################################################################
@@ -163,17 +201,16 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
-http://axcestv.vip:8080/live/freeview/axcestv/624.ts
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
+#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3 Backup 3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 Backup 2
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="MYFREEVIEW" tvg-logo="https://mediahomes.github.io/logos/tv6.png",106 TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -243,7 +280,8 @@ https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
 #http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 4
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=735
+http://syok.tv:2082/fred/fred/18
+#http://iptv12k.com:35461/80201033004/324542/735
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 5
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -252,6 +290,9 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=SK0202
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 6
 http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1705
 
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 7
+http://syok.tv:2082/fred/fred/19
+#http://iptv12k.com:35461/80201033004/324542/4353
 
 
 
@@ -267,7 +308,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=452aca9691995f5ae62629035888e110:35d62e585c052018e1c190eda89fafa3
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astrox Prima ALT
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71020
-http://wanicelife.com:8880/EFLW122114/70NF2GH1/71020
+http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71020
 
 
 
@@ -283,7 +324,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=7b65e3d6ee807842a109821fba96b510:7827b9cf05fda4c3b77f48dea0acfa48
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106 Astrox Oasis ALT
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1701
-http://wanicelife.com:8880/EFLW122114/70NF2GH1/1701
+http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1701
 
 
 
@@ -323,6 +364,14 @@ http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1706
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 6
 http://axcestv.vip:8080/live/freeview/axcestv/648.ts
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 7
+http://syok.tv:2082/fred/fred/23
+#http://iptv12k.com:35461/80201033004/324542/733
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 8
+http://syok.tv:2082/fred/fred/22
+
 
 
 
@@ -368,6 +417,9 @@ http://iptv12k.com:35461/8022022301/468985/721
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 6
 http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71146
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 7
+http://syok.tv:2082/fred/fred/26
+#http://iptv12k.com:35461/80201033004/324542/6608
 
 
 
@@ -382,7 +434,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71080
-http://wanicelife.com:8880/EFLW122114/70NF2GH1/71080
+http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71080
 
 
 
@@ -396,7 +448,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
 #EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astrox Rania ALT
 #http://urtv.cc:80/454781209544/431009674535/6729
-http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71144.ts
+http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71144.ts
 
 
 
@@ -410,7 +462,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
 #EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astrox Aura ALT
 #http://urtv.cc:80/454781209544/431009674535/6713
-http://wanicelife.com:8880/live/SWFAF1231293/XTGE495U/71145.ts
+http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71145.ts
 
 
 
@@ -442,9 +494,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09891197fd467008f73b1fe18bfed710&key=fa752673e5da5541a796569371788dea
 #EXTINF:-1 tvg-id="AstroAwani" ch-number:"AstroAwani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",501 Astrox Awani ALT
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=YWQyZGI1NzMtYjE5Mi0zY2QxLThkZTAtZjNjMDQ4NGUyYWEz
@@ -1097,78 +1146,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroAOD" ch-number="AstroAOD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="CHINESE",311 Astro AOD 311 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
-
-
-
-
-##########################################################   BACKUP CHANNEL - NEED VPN  ####################################################################
-
-
-
-
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png",Astrox Ria 
-http://iptv.tvmalaysia.cc:80/297340/297340/9031
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png",Astrox Prima
-http://iptv.tvmalaysia.cc:80/297340/297340/6727
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png",Astrox Warna
-http://iptv.tvmalaysia.cc:80/297340/297340/6740
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png",Astrox Citra 
-http://iptv.tvmalaysia.cc:80/297340/297340/7267
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png",Astrox Oasis
-http://iptv.tvmalaysia.cc:80/297340/297340/6725
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png",Astrox Rania
-http://iptv.tvmalaysia.cc:80/297340/297340/6729
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png",Astrox Ceria 
-http://iptv.tvmalaysia.cc:80/297340/297340/6715
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/d7b272395e41214e49a127b08bc63b42.png",Astrox AEC 
-http://iptv.tvmalaysia.cc:80/297340/297340/6701
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png",Animax
-http://iptv.tvmalaysia.cc:80/297340/297340/6696
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/dbdc90d36fb0cb6ff75fa4f8fbd8dc96.png",TV-AlHijrah
-http://iptv.tvmalaysia.cc:80/297340/297340/6834
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/9bfeb1c6e3d87c0d27a5d12326aa7a5a.png",Astrox Arena 
-http://iptv.tvmalaysia.cc:80/297340/297340/6707
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN",ASTRO Arena 2
-http://iptv.tvmalaysia.cc:80/297340/297340/9028
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/95994491156dc80e743b181972c4e6d0.png",Astrox Supersport 
-http://iptv.tvmalaysia.cc:80/297340/297340/6708
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/fe80f1bf485eb106f9e91e1c16886b4c.png",Astrox Supersport ALT
-http://iptv.tvmalaysia.cc:80/297340/297340/9024
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/628518d8dfdaa6cc296123a5bdb13c28.png",Astrox Supersport 2
-http://iptv.tvmalaysia.cc:80/297340/297340/6710
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/4946045f4dd1aca3a124f25655097c56.png",Astrox Supersport 2 ALT
-http://iptv.tvmalaysia.cc:80/297340/297340/9025
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/25afd4f665faabffdd3041b89d69e856.png",Astrox Supersport 3
-http://iptv.tvmalaysia.cc:80/297340/297340/6711
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/d3ffad6f5889e2a0c59dfaabedcbbc90.png",Astrox Supersport 3 ALT
-http://iptv.tvmalaysia.cc:80/297340/297340/9020
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/9fa5701dc090214abf85095e751a161d.png",Astrox Supersport 4
-http://iptv.tvmalaysia.cc:80/297340/297340/6712
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN" tvg-logo="http://tvmalaysia.cc:80/images/20e977b56987835f2dfa4c6b133b9561.png",Astrox Supersport 4 ALT
-http://iptv.tvmalaysia.cc:80/297340/297340/9026
-
-#EXTINF:-1 group-title="BACKUP CHANNEL - NEED VPN",Astrox Supersport 5
-http://iptv.tvmalaysia.cc:80/297340/297340/9029
 
 
 
