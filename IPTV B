@@ -715,9 +715,6 @@ http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="717" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle 
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="DOCUMENTARY",Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="DOCUMENTARY",People Are Awesome
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
