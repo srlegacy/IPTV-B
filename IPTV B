@@ -117,7 +117,12 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+
+
 ###############################################################    THIEF GO AWAY    #################################################################################
+
+
+
 
 
 
@@ -624,6 +629,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb5e8d918097e067ab1bc7e3a9e68410:dbda57d3de69f5e4b78ff2cc73d8a51a
 #EXTINF:-1 tvg-id="401" tvg-name="Hits Movies HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 Hits Movies 
@@ -683,9 +689,13 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 
 
 
+
 #####################################################################################################################################################################################
 ##########################################################################    DOCUMENTARY   #########################################################################################
 #####################################################################################################################################################################################
+
+
+
 
 
 
@@ -720,6 +730,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 
 #EXTINF:-1 tvg-id="SmithsonianChannel" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/3BJwhpH/Smithsonian-Channel.png",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
