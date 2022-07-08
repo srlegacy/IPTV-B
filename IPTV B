@@ -116,11 +116,35 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
-
-
 ##############
 #############################################################    THIEF GO AWAY    #################################################################################
 ###################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1117,7 +1141,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 
 
 
-
 #EXTINF:-1 tvg-id="MagnaChannel.id" group-title="INDONESIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png/revision/latest/scale-to-width-down/200?cb=20200805135934",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w949891935_b3884000_sleng.m3u8
 
@@ -1252,6 +1275,8 @@ https://astro3.rastream.com/astro-goxuan
 
 
 
+
+
 #####################################################################################################################################################################################
 ########################################################################   RELAXING    ###########################################################################################
 #####################################################################################################################################################################################
@@ -1325,6 +1350,8 @@ https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/300x300.png?type=color_onBlack",[SPORT] beIN Sports Xtra 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+
+
 
 
 
